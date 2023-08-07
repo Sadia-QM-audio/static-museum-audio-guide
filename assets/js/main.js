@@ -34,6 +34,13 @@ $(document).ready(function() {
     
   });
 
+  function changeLanguage(lang) {
+    if (lang=="English"){
+      window.location.href = "https://sadia-qm-audio.github.io/static-museum-audio-guide/"
+    } else { //language = Arabic
+      window.location.href = "https://sadia-qm-audio.github.io/static-museum-audio-guide/ar"
+    }
+  }
   
 
 });
