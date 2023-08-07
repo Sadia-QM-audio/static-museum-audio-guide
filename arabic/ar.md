@@ -15,8 +15,8 @@ title: Lusail Museum
 
 
   <p dir="rtl" lang="ar"> >اختر اللغة:
-    <button class="language-button" onclick="window.location.href='../'">English</button>
-    <button class="language-button" onclick="window.location.href='../ar/'">العربية</button>
+    <button class="language-button" onclick="window.location.href='{{ baseurl }}'">English</button>
+    <button class="language-button" onclick="window.location.href=''">العربية</button>
   </p>
 
                  
