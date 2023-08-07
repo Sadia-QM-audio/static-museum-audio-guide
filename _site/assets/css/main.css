@@ -300,18 +300,6 @@ pre > code {
 
 
 /********************
- * Language Buttons - I added these myself :)
- *******************/
- .language-button{
-  border: 2px solid #bda573;
-}
-
-.langugae-button:hover {
-  background-color: #bda573;
-  color: white;
-}
-
-/********************
  Connected Page
 ********************/
 .connected-page h1, .connected-page h2, .connected-page h3, .connected-page h4, .connected-page h5, .connected-page h6, .connected-page p {
