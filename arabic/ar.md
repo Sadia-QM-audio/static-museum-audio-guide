@@ -13,9 +13,10 @@ title: Lusail Museum
   <p>{{ site.index_page_text }}</p>
   --->
 
-  <p dir="rtl" lang="ar">اختر اللغة: 
-    <button class="language-button" onclick="window.location.href='https://sadia-qm-audio.github.io/static-museum-audio-guide/'")>English</button>
-    <button class="language-button" onclick="window.location.href='https://sadia-qm-audio.github.io/static-museum-audio-guide/arabicLanding'">العربية</button>
+
+  <p dir="rtl" lang="ar"> >اختر اللغة:
+    <button class="language-button" onclick="window.location.href='../'">English</button>
+    <button class="language-button" onclick="window.location.href='../ar/'">العربية</button>
   </p>
 
                  
