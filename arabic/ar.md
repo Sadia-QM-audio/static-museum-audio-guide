@@ -1,5 +1,9 @@
 ---
 layout: master
+permalink: /arabicLanding/
+type:
+title: Lusail Museum
+
 # Note that below the 'for my_page in pages' and 'if my_page.title'... should be on the same line to remove whitespace between li elements.
 ---
 
@@ -9,17 +13,13 @@ layout: master
   <p>{{ site.index_page_text }}</p>
   --->
 
-
-        <!--- 
- * Language Buttons - I added these myself
-          -->
-  <p>Select language: 
+  <p dir="rtl" lang="ar">اختر اللغة: 
     <button class="language-button" onclick="window.location.href='https://sadia-qm-audio.github.io/static-museum-audio-guide/'")>English</button>
     <button class="language-button" onclick="window.location.href='https://sadia-qm-audio.github.io/static-museum-audio-guide/arabicLanding'">العربية</button>
   </p>
 
                  
-  <p>Select an audio guide stop to begin.</p>
+  <p dir="rtl" lang="ar">حدد توقف دليل صوتي للبدء.</p>
 
   <ul class="post-list">
     {% assign pages = site.pages | sort: 'page_rank' %}
