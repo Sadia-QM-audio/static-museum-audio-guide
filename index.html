@@ -5,7 +5,20 @@ layout: master
 
 <div class="home">
 
+  <!---
   <p>{{ site.index_page_text }}</p>
+  --->
+
+
+        <!--- 
+ * Language Buttons - I added these myself
+          -->
+  <p>Select language: 
+    <button class="language-button">English</button>
+    <button class="language-button">Arabic</button>
+  </p>
+                 
+  <p>Select an audio guide stop to begin.</p>
 
   <ul class="post-list">
     {% assign pages = site.pages | sort: 'page_rank' %}
