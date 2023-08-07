@@ -8,4 +8,4 @@ title: Lusail Museum
 
 You have changed the language to Arabic!✨
 
-<a href="../ar" target="_system">Launch Audio Guide</a>
+<a href="../ar/" target="_system">Launch Audio Guide</a>

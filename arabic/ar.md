@@ -1,6 +1,6 @@
 ---
 layout: master
-permalink: /arabicLanding/
+permalink: /ar/
 type:
 title: Lusail Museum
 
