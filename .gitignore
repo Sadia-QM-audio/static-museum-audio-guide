@@ -1,6 +1,5 @@
 _site 
 #this was initially in gitignore, I commented it out because I wanted to change the wensite template
-!_site/assets/css/
 !_site/index.html
 .sass-cache
 .jekyll-metadata
