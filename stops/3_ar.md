@@ -1,6 +1,6 @@
 ---
 layout: episode
-permalink: /stops/3/
+permalink: /stops/3/ar/
 type: stop
 section_title: Journeys
 title: Celebrating a world in motion 

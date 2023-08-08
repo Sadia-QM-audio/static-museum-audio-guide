@@ -1,6 +1,6 @@
 ---
 layout: episode
-permalink: /stops/1/
+permalink: /stops/1/ar/
 type: stop
 section_title: Understanding Orientalism
 title: Welcome to the first stop in the tour

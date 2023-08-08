@@ -1,6 +1,6 @@
 ---
 layout: episode
-permalink: /stops/2/
+permalink: /stops/2/ar/
 type: stop
 section_title: Souq Al-Hamidiyah
 title: An enduring meeting place for people, goods and ideas
