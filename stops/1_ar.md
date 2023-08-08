@@ -6,7 +6,7 @@ section_title: الاستشراق
 title: يقدم متحف لوسيل مجموعة عالمية من لوحات الفن الاستشراقي 
 page_rank: 1
 stop_id: 1
-audio_file: 1_Arb_Understanding_Orientalism.mp3
+audio_file: 1_Arb_Understanding_Orientalism.wav
 hero_images:
  - path: Orientalism_1.jpg
    alt_text: First example photo for stop 1
