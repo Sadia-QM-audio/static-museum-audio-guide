@@ -4,8 +4,8 @@ permalink: /stops/2/ar/
 type: stop
 section_title: سوق الحميدية 
 title: ملتقى دائم للأشخاص والبضائع والأفكار من جميع أنحاء العالم 
-page_rank: ٢
-stop_id: ٢
+page_rank: 5
+stop_id: 5
 audio_file: 2_Arb_Souq.wav
 hero_images:
  - path: Souq_1.jpg
