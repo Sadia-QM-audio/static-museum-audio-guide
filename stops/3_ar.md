@@ -4,8 +4,8 @@ permalink: /stops/3/ar/
 type: stop
 section_title: الرحلات
 title: الاحتفاء بعالم متحرك
-page_rank: 3
-stop_id: 3
+page_rank: 6
+stop_id: 6
 audio_file: 3_Arb_Journeys.wav
 hero_images:
 hero_images:
@@ -39,4 +39,3 @@ ___________________
 			<br/>
 			<br/>
 		</p>
-    
