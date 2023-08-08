@@ -1,0 +1,46 @@
+---
+layout: episode
+permalink: /stops/2/
+type: stop
+section_title: Souq Al-Hamidiyah
+title: An enduring meeting place for people, goods and ideas
+page_rank: 2
+stop_id: 2
+audio_file: 2_Eng_Souq.wav
+hero_images:
+ - path: 02-second-stop-01.jpg
+   alt_text: First example photo for stop 2
+ - path: 02-second-stop-02.jpg
+   alt_text: Second example photo for stop 2
+---
+
+<!---
+Replace this section of text with the full transcript of your audio guide stop. Use a second level heading to flag the person speaking
+
+## Person speaking
+
+> And this blockquote is styled to make it clear that this section really is someone speaking.
+
+And we can go back to a normal transcript.
+
+### A third level heading
+
+The example audio used here is borrowed from [NASA](http://www.nasa.gov/connect/sounds/index.html#Discovery) under the terms of their [usage guidelines](http://www.nasa.gov/multimedia/guidelines/index.html). This is just a test clip, so you'll need to replace it!
+--->
+
+<sup><sub> Images courtesy of Lusail Museum Collection - Doha and General Collection - Doha </sub></sup>
+
+___________________
+
+<br>
+Narrator: Jane Doe
+
+>The life of the souq is, and has been, a core part of daily communal experience – a continuation of shared activities under one roof from market to mosque and home. 
+
+>Standing at the heart of Damascus, one of the world’s long-inhabited cities, Souq Al-Hamidiyah has stood witness to the city’s turbulent history. 
+
+>Sunlight streams through bullet holes in its iron canopy, erected by the Ottomans, and testament to the 1920s conflict between the Syrians and French Colonists. Throughout the ongoing war, the Souq has escaped damage. 
+
+>The thriving commercial heart of the historic city, the souq has welcomed merchants from far and wide, with goods exchanging hands and travelling out across the Indian Ocean World and beyond.  
+
+>Exploring this gallery, you will find a mixture of imagined, realistic or abstracted scenes through photographs, film and paintings. As bustling and dynamic meeting places, souqs have featured regularly in the works of Orientalist artists. 
