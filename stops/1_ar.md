@@ -2,11 +2,11 @@
 layout: episode
 permalink: /stops/1/ar/
 type: stop
-section_title: Understanding Orientalism
-title: Welcome to the first stop in the tour
+section_title: الاستشراق
+title: يقدم متحف لوسيل مجموعة عالمية من لوحات الفن الاستشراقي 
 page_rank: 1
 stop_id: 1
-audio_file: 1_Eng_Understanding_Orientalism.mp3
+audio_file: 1_Arb_Understanding_Orientalism.mp3
 hero_images:
  - path: Orientalism_1.jpg
    alt_text: First example photo for stop 1
@@ -31,33 +31,50 @@ The example audio used here is borrowed from [NASA](http://www.nasa.gov/connect/
 --->
 
 
-<sup><sub> Images courtesy of General Collection - Doha and the Lusail Museum Collection - Doha  </sub></sup>
+<p dir="rtl" lang="ar"><sup><sub> لصور بإذن من مجموعة المقتنيات العامة - الدوحة 
+
+ومجموعة مقتنيات متحف لوسيل - الدوحة   </sub></sup></p>
 
 ___________________
 
 <br>
-Narrator: Jane Doe
 
->Welcome to the Uncovering Orientalism Gallery. In this room you will find highlights from Lusail Museum’s world-class collection of Orientalist art. 
-
->Sheikh Jassim lived during a period when Western Europe and North America were captivated by the Indian Ocean World and the Orientalist gaze was expanding. 
-
->The collection gives us an insight into the movement of ideas and differing perspectives if we understand how to look at it. 
-
->What do we mean by ‘Orientalism’?   
-
->Orientalism refers to ‘Western’ representations, imitations and often, misinterpretations of the ‘Eastern’ world.  
-
->In art we might find this through the medium of paintings, sketches, photographs, ceramics or fashion.  
-
->This work by French painter Jean-Léon Gérôme is a beautiful depiction of a musician. So realistic, one might think it captures a particular moment in time. But like many Orientalist painters, Gérôme often painted from his studio where he employed models to pose and drew inspiration from photographs or artefacts he had collected on his travels. 
-
->Is it important to understand the context of how an artwork was made?  
-
->Many Orientalist artists travelled or lived across parts of North Africa, the Middle East and the Indian Ocean World. Some took great care to accurately document their experiences while others painted entirely from their imaginations.  
-
->Some artists accompanied diplomats on missions, or soldiers in battle; others simply painted what was fashionable for commercial means. 
-
->Is knowing the artist’s intention important to understanding a piece of art? 
-
->We invite you to explore this gallery with a critical eye. What can these collections, taking a particular perspective at a particular time, reveal about our world today? Do artists’ motivations and the meanings behind objects stay the same over time, or can we consider them with a fresh perspective? 
+><p dir="rtl" lang="ar">
+			<br/>
+مرحبًا بكم في صالة "الاستشراق". تجدون في هذه الصالة لوحات مميزة من مجموعة الفن الاستشراقي العالمية الخاصة بمتحف لوسيل.  
+			<br/>
+			<br/>
+عاش الشيخ جاسم في فترة كانت خلالها أوروبا الغربية وأمريكا الشمالية مفتونتين بعالم المحيط الهندي، وكانت حركة الاستشراق في توسع مستمر. 
+			<br/>
+			<br/>
+تساهم هذه المجموعة في تكوين نظرة ثاقبة لدى الزائر تجاه عملية انتقال الأفكار والمفاهيم المختلفة بين بلدان العالم.  
+			<br/>
+			<br/>
+ماذا يعني الاستشراق؟ 
+			<br/>
+			<br/>
+يشير مصطلح الاستشراق إلى التصور الغربي لثقافة الشرق، وتقليده لهذه الثقافة، والتفسيرات الخاطئة التي يقدمها له في كثير من الأحيان. 
+			<br/>
+			<br/>
+في المجال الفني نجد ذلك في اللوحات، والرسومات، والصور، والخزف، والأزياء.  
+			<br/>
+			<br/>
+تصور هذه اللوحة الجميلة للفنان الفرنسي جان ليون جيروم أحد الموسيقيين. ويبدو هذا العمل واقعيًا إلى حد بعيد، بحيث يعتقد المشاهد أنه يلتقط لحظة حقيقية من الزمن. ولكن جيروم كان يستخدم أثناء الرسم نماذج من الأشخاص في الاستوديو الخاص به، ويستلهم الأفكار من الصور والقطع الفنية التي جمعها خلال أسفاره، شأنه في ذلك شأن العديد من الفنانين المستشرقين. 
+			<br/>
+			<br/>
+هل يعتبر فهم السياق الخاص بالعمل الفني أمرًا مهمًا؟ 
+			<br/>
+			<br/>
+سافر العديد من الفنانين المستشرقين إلى مناطق شمال أفريقيا والشرق الأوسط ودول المحيط الهندي، وعاش عدد منهم في هذه المناطق. وقد اهتم بعض أولئك الفنانين بتوثيق تجاربهم فيها بشكل دقيق، بينما اعتمد آخرون في رسم لوحاتهم على الخيال بشكل كامل.   
+			<br/>
+			<br/>
+بعض الفنانين كانوا يرافقون الدبلوماسيين في مهماتهم الدبلوماسية، ومنهم من شارك في المعارك.  وكان البعض يرسمون الموضوعات الشائعة لأغراض تجارية فقط.  
+			<br/>
+			<br/>
+هل معرفة نية الفنان وقصده أمر مهم في فهم العمل الفني؟ 
+			<br/>
+			<br/>
+ندعوك لاستكشاف هذه الصالة بدقة. ما الذي يمكن أن تقدمه هذ المجموعات، من خلال منظور  معين في وقت معين، عن عالمنا اليوم؟ هل تبقى دوافع الفنانين والمعاني التي تحملها القطع كما هي مع مرور الوقت، أم يكمن النظر إليها  من منظور جديد؟ 
+			<br/>
+			<br/>
+		</p> 

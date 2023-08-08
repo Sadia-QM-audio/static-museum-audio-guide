@@ -2,8 +2,8 @@
 layout: episode
 permalink: /stops/2/ar/
 type: stop
-section_title: Souq Al-Hamidiyah
-title: An enduring meeting place for people, goods and ideas
+section_title: سوق الحميدية 
+title: ملتقى دائم للأشخاص والبضائع والأفكار من جميع أنحاء العالم 
 page_rank: 2
 stop_id: 2
 audio_file: 2_Arb_Souq.wav
@@ -28,19 +28,27 @@ And we can go back to a normal transcript.
 The example audio used here is borrowed from [NASA](http://www.nasa.gov/connect/sounds/index.html#Discovery) under the terms of their [usage guidelines](http://www.nasa.gov/multimedia/guidelines/index.html). This is just a test clip, so you'll need to replace it!
 --->
 
-<sup><sub> Images courtesy of Lusail Museum Collection - Doha and General Collection - Doha </sub></sup>
+<p dir="rtl" lang="ar"><sup><sub> الصور بإذن من مجموعة مقتنيات متحف لوسيل – الدوحة ومجموعة المقتنيات العامة - الدوحة  </sub></sup></p>
 
 ___________________
 
 <br>
-Narrator: Jane Doe
 
->The life of the souq is, and has been, a core part of daily communal experience – a continuation of shared activities under one roof from market to mosque and home. 
-
->Standing at the heart of Damascus, one of the world’s long-inhabited cities, Souq Al-Hamidiyah has stood witness to the city’s turbulent history. 
-
->Sunlight streams through bullet holes in its iron canopy, erected by the Ottomans, and testament to the 1920s conflict between the Syrians and French Colonists. Throughout the ongoing war, the Souq has escaped damage. 
-
->The thriving commercial heart of the historic city, the souq has welcomed merchants from far and wide, with goods exchanging hands and travelling out across the Indian Ocean World and beyond.  
-
->Exploring this gallery, you will find a mixture of imagined, realistic or abstracted scenes through photographs, film and paintings. As bustling and dynamic meeting places, souqs have featured regularly in the works of Orientalist artists. 
+><p dir="rtl" lang="ar">
+			<br/>
+شكلت الأسواق في الماضي والحاضر عنصرًا أساسيًّا في الحياة اليومية للمجتمع، وهي وثيقة الارتباط بالنشاطات الحياتية الأخرى للناس في البيوت والمساجد. 
+			<br/>
+			<br/>
+يقع سوق الحميدية في قلب مدينة دمشق، وهي من أقدم المدن المأهولة في تاريخ البشرية. ويقف هذا السوق شاهدًا على تاريخ المدينة المضطرب.  
+			<br/>
+			<br/>
+يتدفق ضوء الشمس عبر الثقوب الموجودة في مظلة السوق الحديدية التي أنشأها العثمانيون، وقد جاءت هذه الثقوب بسبب طلقات الرصاص التي تعرض لها السوق أثناء مقاومة السوريين للمستعمر الفرنسي في عشرينيات القرن الماضي. وقد نجا هذا السوق من الدمار خلال الحرب الأخيرة في سوريا.   
+			<br/>
+			<br/>
+شكّل سوق الحميدية القلب التجاري النابض لمدينة دمشق التاريخية. وكان يستقبل التجار من مختلف أنحاء العالم، ويشهد تبادل السلع التي تأتي من الدول المطلة على المحيط الهندي وغيرها من الدول الأخرى.   
+			<br/>
+			<br/>
+يجد الزائر في في هذا المعرض مزيجًا من المشاهد الواقعية والخيالية والتجريدية، من خلال الصور والأفلام واللوحات المختلفة. ونظرًا لأن الأسواق كانت تشهد لقاءات صاخبة وتجمعات دائمة، فقد ظهرت بشكل متكرر في أعمال الفنانين المستشرقين. 
+			<br/>
+			<br/>
+		</p>
