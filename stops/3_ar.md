@@ -2,33 +2,40 @@
 layout: episode
 permalink: /stops/3/ar/
 type: stop
-section_title: Journeys
-title: Celebrating a world in motion 
+section_title: الرحلات
+title: الاحتفاء بعالم متحرك
 page_rank: 3
 stop_id: 3
-audio_file: 3_Eng_Journeys.wav
+audio_file: 3_Arb_Journeys.wav
 hero_images:
 hero_images:
- - path: 03-third-stop-01.jpg
+ - path: Journeys_1.jpg
    alt_text: First example photo for stop 3
  - path: 03-third-stop-02.jpg
    alt_text: Second example photo for stop 3
 ---
 
-<sup><sub>Images courtesy of the National Museum of Qatar - Doha, Lusail Museum Collection – Doha, Museum of Islamic Art – Doha and General Collection - Doha  </sub></sup>
+<p dir="rtl" lang="ar"><sup><sub> الصور بإذن من متحف قطر الوطني – الدوحة ومجموعة مقتنيات متحف لوسيل – الدوحة ومتحف الفن الإسلامي ومجموعة المقتنيات العامة - الدوحة   </sub></sup></p>
 
 ___________________
 
 <br>
-Narrator: Jane Doe
 
->The Indian Ocean World is an arena that people, ideas and goods have criss-crossed to a staggering degree for millennia. 
-
->Many of these trajectories have passed through Lusail where Sheikh Jassim and his son traded pearls, leading to encounters with merchants from all over the world.  
-
->People move for many different reasons, compelled by curiosity, need and, at times, by passions and forces beyond their control. 
-
->Objects and ideas travel much further than people, and give us clues about past lives, behaviours and motivations. 
-
->In this gallery we investigate this world of breath-taking flux through a myriad of dynamic objects. Have a look at the digital tablets and labels for further information around types of materials, designs, technology and even games that have crossed land and sea. Exploring these displays, consider, what do they tell us about ourselves?  
-
+><p dir="rtl" lang="ar">
+			<br/>
+يعتبر عالم المحيط الهندي مكانًا يلتقي فيه الناس والأفكار والبضائع بشكل مستمر منذ آلاف السنين.  
+			<br/>
+			<br/>
+كانت لوسيل تشكل محطة تجارية، حيث كان الشيخ جاسم وابنه يتاجرون باللؤلؤ مع تجار من جميع أنحاء العالم. 
+			<br/>
+			<br/>
+يتنقل الناس لأسباب عديدة مختلفة، مثل الفضول والحاجة، وأحيانًا بسبب مشاعر وأمور خارجة عن إرادتهم.  
+			<br/>
+			<br/>
+تنتقل البضائع والأفكار عبر الأماكن أكثر بكثير مما يفعل الناس، وتوفر لنا أدلة حول الحياة والممارسات والدوافع المختلفة لدى الناس. 
+			<br/>
+			<br/>
+في هذا المعرض نستكشف العدد الكبير من القطع المثيرة. ألقِ نظرة على اللوحات الرقمية والبطاقات التعريفية لمزيد من المعلومات حول أنواع المواد والتصميمات والتقنيات، والألعاب التي وصلت إلينا عبر البر والبحر. استكشف وتأمل هذه المعروضات، ما الذي يمكن أن نعرفه منها عن أنفسنا؟  
+			<br/>
+			<br/>
+		</p>
