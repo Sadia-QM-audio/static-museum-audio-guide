@@ -10,10 +10,10 @@ title: Lusail Museum
 email: ssultana@qm.org.qa
 description: > # this means to ignore newlines until "baseurl:"
   A web-based audio guide for Lusail Museum, using ACMI Lab's audio guide repository.
-baseurl: "https://sadia-qm-audio.github.io/static-museum-audio-guide/" # the subpath of your site, e.g. /blog
+baseurl: "/audio" # the subpath of your site, e.g. /blog
 audio_path: "/audio/"
 episode_hero_path: "/assets/img/stops/"
-url: "http://www.example.com" # the base hostname & protocol for your site
+url: "https://sadia-qm.github.io" # the base hostname & protocol for your site
 logo: "/assets/img/logo/audio-guide.png"
 twitter_username: 
 github_username:  
