@@ -2,8 +2,8 @@
 layout: episode
 permalink: /stops/1/ar/
 type: stop
-section_title: الاستشراق
-title: يقدم متحف لوسيل مجموعة عالمية من لوحات الفن الاستشراقي 
+section_title: <p dir="rtl" lang="ar"> الاستشراق </p>
+title: <p dir="rtl" lang="ar"> يقدم متحف لوسيل مجموعة عالمية من لوحات الفن الاستشراقي </p>
 page_rank: 4
 stop_id: 4
 audio_file: 1_Arb_Understanding_Orientalism.wav

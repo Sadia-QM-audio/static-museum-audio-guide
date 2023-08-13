@@ -63,6 +63,12 @@ $height-600:       600px;
 //for setting font of arabic text
 
 /* arabic */
+:lang(ar) {
+  /* CSS properties for Arabic text */
+  font-family: 'Harmattan'; /* Replace with the actual font name */
+}
+
+/*
 @font-face {
   font-family: 'Harmattan';
   font-style: normal;
@@ -71,6 +77,7 @@ $height-600:       600px;
   src: url(https://fonts.gstatic.com/s/harmattan/v19/goksH6L2DkFvVvRp9XpjSUqioP0.woff2) format('woff2');
   unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0898-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC;
 }
+*/
 
  .language-button{
     background-color: $brand-color;

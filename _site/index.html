@@ -12,41 +12,42 @@
 
   <!-- place fav icons here -->
 
-  <title>ACMI Audio Guide</title>
-  <meta name="description" content="A web-based audio guide theme for Jekyll.
+  <title>Lusail Museum</title>
+  <meta name="description" content="A web-based audio guide for Lusail Museum, using ACMI Lab's audio guide repository.
 ">
 
   <!-- Twitter cards and OG Image for Facebook -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="acmilabs" />
-  <meta name="twitter:creator" content="acmilabs" />
-  <meta name="twitter:title" content="ACMI Audio Guide" />
-  <meta name="twitter:description" content="A web-based audio guide theme for Jekyll.
+  <meta name="twitter:site" content="" />
+  <meta name="twitter:creator" content="" />
+  <meta name="twitter:title" content="Lusail Museum" />
+  <meta name="twitter:description" content="A web-based audio guide for Lusail Museum, using ACMI Lab's audio guide repository.
 " />
   
-  <meta name="og:image" content="http://localhost:4000/assets/img/meta/og-image.jpg" />
-  <meta name="twitter:image" content="http://localhost:4000/assets/img/meta/og-image.jpg" />
+  <meta name="og:image" content="http://localhost:4000/static-museum-audio-guide/assets/img/meta/og-image.jpg" />
+  <meta name="twitter:image" content="http://localhost:4000/static-museum-audio-guide/assets/img/meta/og-image.jpg" />
 
   <!-- Canonical urls -->
 
-  <link rel="canonical" href="http://localhost:4000/">
-  <link rel="alternate" type="application/rss+xml" title="ACMI Audio Guide" href="http://localhost:4000/feed.xml">
+  <link rel="canonical" href="http://localhost:4000/static-museum-audio-guide/">
+  <link rel="alternate" type="application/rss+xml" title="Lusail Museum" href="http://localhost:4000/static-museum-audio-guide/feed.xml">
 
   <!-- Stylesheets -->
 
-  <link rel="stylesheet" type="text/css" href="/assets/js/slick.css" />
-  <link rel="stylesheet" type="text/css" href="/assets/js/slick-theme.css" />
+  <link rel="stylesheet" type="text/css" href="/static-museum-audio-guide/assets/js/slick.css" />
+  <link rel="stylesheet" type="text/css" href="/static-museum-audio-guide/assets/js/slick-theme.css" />
 
   <!-- jQuery -->
-  <script src="/assets/js/jquery-1.12.3.min.js"></script>
-  <script src="/assets/js/slick.min.js"></script>
+  <script src="/static-museum-audio-guide/assets/js/jquery-1.12.3.min.js"></script>
+  <script src="/static-museum-audio-guide/assets/js/slick.min.js"></script>
 
   <!-- jPlayer -->
-  <script src="/assets/js/jplayer/jquery.jplayer.min.js"></script>
+  <script src="/static-museum-audio-guide/assets/js/jplayer/jquery.jplayer.min.js"></script>
 
   <!-- CSS for this web app -->
-  <link rel='stylesheet' href='/assets/css/main.css?v=1.0.0.1'>
+  <link rel='stylesheet' href='/static-museum-audio-guide/assets/css/main.css?v=1.0.0.1'>
 
+  
   <script type="text/javascript">
 
 // The JS code here is render blocking. We liked it this way, but you might want to change it if this sort of thing
@@ -154,7 +155,7 @@ $(document).ready(function(){
       });
 
     },
-    swfPath: "/assets/js/jplayer",
+    swfPath: "/static-museum-audio-guide/assets/js/jplayer",
     supplied: "mp3",
     wmode: "window",
     useStateClassSkin: true,
@@ -168,7 +169,7 @@ $(document).ready(function(){
 
   </script>
     <!-- JS for this web app -->
-  <script src="/assets/js/main.js?v=1.0.0.1"></script>
+  <script src="/static-museum-audio-guide/assets/js/main.js?v=1.0.0.1"></script>
 </head>
 
 
@@ -180,8 +181,8 @@ $(document).ready(function(){
 <!-- End Google Tag Manager -->
     <header class="site-header">
   
-  <a class="site-title" href="/">
-    <img src="/assets/img/logo/audio-guide.png" alt="ACMI Audio Guide logo" class="site-logo"/>
+  <a class="site-title" href="/static-museum-audio-guide/">
+    <img src="/static-museum-audio-guide/assets/img/logo/audio-guide.png" alt="Lusail Museum logo" class="site-logo"/>
   </a>
   
 </header>
@@ -190,20 +191,35 @@ $(document).ready(function(){
     <div class="page-content main-page">
       <div class="wrapper">
         <div class="home">
-          
+
+  <!---
+  <p></p>
+  --->
+
+
+        <!--- 
+  Language Buttons - I added these myself
+          --->
+  <p>Select language: 
+    <button class="language-button">English</button>
+    <button class="language-button" onclick="window.location.href='./ar/'">العربية</button>
+  </p>
+
+                 
+  <p>Select an audio guide stop to begin.</p>
 
   <ul class="post-list">
     
     <li>
-        <a class="post-link" href="/stops/1/" style="background-image: url('/assets/img/icons/headphones-dark.png');">
+        <a class="post-link" href="/static-museum-audio-guide/stops/1/" style="background-image: url('/static-museum-audio-guide/assets/img/icons/headphones-dark.png');">
           <span class="post-item">1</span>
         </a>
       </li><li>
-        <a class="post-link" href="/stops/2/" style="background-image: url('/assets/img/icons/headphones-dark.png');">
+        <a class="post-link" href="/static-museum-audio-guide/stops/2/" style="background-image: url('/static-museum-audio-guide/assets/img/icons/headphones-dark.png');">
           <span class="post-item">2</span>
         </a>
       </li><li>
-        <a class="post-link" href="/stops/3/" style="background-image: url('/assets/img/icons/headphones-dark.png');">
+        <a class="post-link" href="/static-museum-audio-guide/stops/3/" style="background-image: url('/static-museum-audio-guide/assets/img/icons/headphones-dark.png');">
           <span class="post-item">3</span>
         </a>
       </li>
@@ -216,22 +232,34 @@ For reference: This is a list of all the stops and titles in this audio guide
 
     
 Stop #: 1
-Section Title: Introduction
+Section Title: Understanding Orientalism
 Title: Welcome to the first stop in the tour
       
 Stop #: 2
-Section Title: The Middle
-Title: An incredibly rare object
+Section Title: Souq Al-Hamidiyah
+Title: An enduring meeting place for people, goods and ideas
       
 Stop #: 3
-Section Title: The End
-Title: Last stop in the tour
+Section Title: Journeys
+Title: Celebrating a world in motion
+      
+Stop #: 4
+Section Title: <p dir="rtl" lang="ar"> الاستشراق </p>
+Title: <p dir="rtl" lang="ar"> يقدم متحف لوسيل مجموعة عالمية من لوحات الفن الاستشراقي </p>
+      
+Stop #: 5
+Section Title: <p dir="rtl" lang="ar"> سوق الحميدية </p>
+Title: <p dir="rtl" lang="ar"> ملتقى دائم للأشخاص والبضائع والأفكار من جميع أنحاء العالم </p>
+      
+Stop #: 6
+Section Title: <p dir="rtl" lang="ar"> الرحلات </p>
+Title: <p dir="rtl" lang="ar"> الاحتفاء بعالم متحرك </p>
       
 
 -->
   
 <!--
-  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+  <p class="rss-subscribe">subscribe <a href="/static-museum-audio-guide/feed.xml">via RSS</a></p>
 -->
 </div>
 
@@ -245,7 +273,7 @@ Title: Last stop in the tour
     <div class="partner-logos">
       <!-- replace logos here! -->
       <a href="https://www.acmi.net.au" target="_blank">
-        <img class="logo" src="/assets/img/logo/acmi-white.png"/>
+        <img class="logo" src="/static-museum-audio-guide/assets/img/logo/acmi-white.png"/>
       </a>
     </div>
   </div>

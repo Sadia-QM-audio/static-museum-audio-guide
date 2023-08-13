@@ -2,8 +2,8 @@
 layout: episode
 permalink: /stops/3/ar/
 type: stop
-section_title: الرحلات
-title: الاحتفاء بعالم متحرك
+section_title: <p dir="rtl" lang="ar"> الرحلات </p>
+title: <p dir="rtl" lang="ar"> الاحتفاء بعالم متحرك </p>
 page_rank: 6
 stop_id: 6
 audio_file: 3_Arb_Journeys.wav

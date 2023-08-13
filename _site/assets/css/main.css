@@ -1,7 +1,40 @@
+/********************
+ * Language Buttons - I added these myself :)
+ *******************/
+/* arabic */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url("https://fonts.googleapis.com/css2?family=Harmattan&display=swap");
+:lang(ar) {
+  /* CSS properties for Arabic text */
+  font-family: "Harmattan"; /* Replace with the actual font name */
+}
+
+/*
+@font-face {
+  font-family: 'Harmattan';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/harmattan/v19/goksH6L2DkFvVvRp9XpjSUqioP0.woff2) format('woff2');
+  unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0898-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC;
+}
+*/
+.language-button {
+  background-color: #bda573;
+  padding: 0.5rem 1rem;
+  border-radius: 3px;
+  border: 0px;
+}
+
+.language-button:hover {
+  background-color: #211c10;
+  color: white;
+}
+
 /*************
   Open Sans, loaded via Google Fonts. Replace below with your own @font-face or @import statements	
 *************/
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+/* arabic font*/
 /**
  * Remove focus outline on all elements -- fix the square that would appear around the play icon on Android
  */
@@ -96,12 +129,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #43A047;
+  color: #bda573;
   text-decoration: none;
   transition: 0.2s;
 }
 a:hover {
-  color: #a3d9a6;
+  color: #eee8db;
   text-decoration: none;
 }
 
@@ -109,7 +142,7 @@ a:hover {
  * Blockquotes
  */
 blockquote {
-  color: #7fca83;
+  color: #ded2b8;
 }
 blockquote > :last-child {
   margin-bottom: 0;
@@ -121,7 +154,7 @@ blockquote > :last-child {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #c7e8c9;
+  border: 1px solid #fefefe;
   border-radius: 3px;
   background-color: #eef;
 }
@@ -179,7 +212,7 @@ pre > code {
   vertical-align: middle;
 }
 .icon > svg path {
-  fill: #43A047;
+  fill: #bda573;
 }
 
 /********************
@@ -210,7 +243,7 @@ pre > code {
 }
 
 .welcome .slick .prompt {
-  background-color: #43A047;
+  background-color: #bda573;
   color: white;
   max-width: 450px;
   margin: 0 auto 0.5em auto;
@@ -219,7 +252,7 @@ pre > code {
   transition: 0.3s;
 }
 .welcome .slick .prompt:hover, .welcome .slick .prompt:active, .welcome .slick .prompt:focus {
-  background-color: #5bbb60;
+  background-color: #cdbb96;
 }
 
 .button-forward {
@@ -253,7 +286,7 @@ pre > code {
 
 .styled-button {
   border: none;
-  background: #43A047;
+  background: #bda573;
   border-radius: 5px;
   color: #fafafa;
   padding: 0.5em 1em;
@@ -264,7 +297,7 @@ pre > code {
   transition: 0.3s;
 }
 .styled-button:hover, .styled-button:active, .styled-button:focus {
-  background-color: #5bbb60;
+  background-color: #cdbb96;
 }
 
 .prompt-big .styled-button {
@@ -282,7 +315,7 @@ pre > code {
 }
 
 .slick-dots li.slick-active button:before {
-  color: #43A047 !important;
+  color: #bda573 !important;
   opacity: 1 !important;
 }
 
@@ -297,7 +330,6 @@ pre > code {
   height: 96px;
   margin: 0 auto;
 }
-
 
 /********************
  Connected Page
@@ -343,7 +375,7 @@ pre > code {
 
 .site-header {
   height: 96px;
-  background-color: #43A047;
+  background-color: #bda573;
   text-align: center;
 }
 
@@ -369,7 +401,7 @@ pre > code {
   transition: 0.3s;
 }
 .site-header-back-button img:hover, .site-header-back-button img:active, .site-header-back-button img:focus {
-  background-color: #5bbb60;
+  background-color: #cdbb96;
 }
 
 .site-header-menu-button {
@@ -383,7 +415,7 @@ pre > code {
   transition: 0.3s;
 }
 .site-header-menu-button img:hover, .site-header-menu-button img:active, .site-header-menu-button img:focus {
-  background-color: #5bbb60;
+  background-color: #cdbb96;
 }
 
 .site-title img {
@@ -476,7 +508,7 @@ pre > code {
 }
 .post-list li a {
   margin: 5px;
-  background-color: #43A047;
+  background-color: #bda573;
   background-size: 100%;
   color: #fafafa;
   width: 64px;
@@ -488,7 +520,7 @@ pre > code {
   padding: 0;
 }
 .post-list li a:hover, .post-list li a:active, .post-list li a:focus {
-  background-color: #5bbb60;
+  background-color: #cdbb96;
 }
 @media screen and (max-width: 640px) {
   .post-list li a {
@@ -499,7 +531,7 @@ pre > code {
 
 .post-meta {
   font-size: 17.5px;
-  color: #43A047;
+  color: #bda573;
 }
 
 .post-link {
@@ -563,7 +595,7 @@ pre > code {
 }
 .post-title-episode .post-header-section-title {
   display: inline-block;
-  color: #ebf7ec;
+  color: white;
   font-size: 26px;
   line-height: 26px;
   margin-top: 0;
@@ -571,7 +603,7 @@ pre > code {
   text-align: center;
 }
 .post-title-episode .post-header-title {
-  color: #5bbb60;
+  color: #cdbb96;
   font-size: 20px;
   line-height: 26px;
   margin-top: 0;
@@ -595,7 +627,7 @@ pre > code {
 }
 .post-content h3 {
   font-size: 20px;
-  color: #5bbb60;
+  color: #cdbb96;
 }
 .post-content h4 {
   font-size: 18px;
@@ -701,13 +733,13 @@ Audio Player Styling
   float: right;
   line-height: 48px;
   vertical-align: top;
-  color: #43A047;
+  color: #bda573;
 }
 .player-buttons .player-buttons-next-number {
   float: left;
   line-height: 48px;
   vertical-align: top;
-  color: #43A047;
+  color: #bda573;
 }
 .player-buttons .player-buttons-prev {
   display: inline-block;
@@ -750,13 +782,13 @@ Audio Player Styling
   height: 10px;
   margin: 0 0 0 0;
   border-radius: 3px;
-  background-color: #3b8e3f;
+  background-color: #b59a62;
 }
 
 .jp-play-bar {
   height: 10px;
   border-radius: 3px;
-  background-color: #5bbb60;
+  background-color: #cdbb96;
 }
 
 .jp-controls button.jp-play {
@@ -769,7 +801,7 @@ Audio Player Styling
   border-radius: 32px !important;
 }
 .jp-controls button.jp-play:hover {
-  border-color: #43A047 !important;
+  border-color: #bda573 !important;
 }
 
 .jp-state-playing button.jp-play {

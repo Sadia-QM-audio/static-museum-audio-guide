@@ -2,8 +2,8 @@
 layout: episode
 permalink: /stops/2/ar/
 type: stop
-section_title: سوق الحميدية 
-title: ملتقى دائم للأشخاص والبضائع والأفكار من جميع أنحاء العالم 
+section_title: <p dir="rtl" lang="ar"> سوق الحميدية </p>
+title: <p dir="rtl" lang="ar"> ملتقى دائم للأشخاص والبضائع والأفكار من جميع أنحاء العالم </p>
 page_rank: 5
 stop_id: 5
 audio_file: 2_Arb_Souq.wav
