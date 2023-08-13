@@ -10,8 +10,6 @@ audio_file: 2_Arb_Souq.wav
 hero_images:
  - path: Souq_1.jpg
    alt_text: First example photo for stop 2
- - path: 02-second-stop-02.jpg
-   alt_text: Second example photo for stop 2
 ---
 
 <!---
@@ -28,7 +26,7 @@ And we can go back to a normal transcript.
 The example audio used here is borrowed from [NASA](http://www.nasa.gov/connect/sounds/index.html#Discovery) under the terms of their [usage guidelines](http://www.nasa.gov/multimedia/guidelines/index.html). This is just a test clip, so you'll need to replace it!
 --->
 
-<p dir="rtl" lang="ar"><sup><sub> الصور بإذن من مجموعة مقتنيات متحف لوسيل – الدوحة ومجموعة المقتنيات العامة - الدوحة  </sub></sup></p>
+<p dir="rtl" lang="ar"><sup><sub> جاكوبو ليغوزي، "باشا معمَّم وفيل"، 1575 – 1585، ألوان مائية على ورق، 27.8 × 22.1 سم. مجموعة متحف لوسيل. الصورة: © متحف لوسيل، متاحف قطر، 2022. </sub></sup></p>
 
 ___________________
 

@@ -11,11 +11,9 @@ hero_images:
 hero_images:
  - path: Journeys_1.jpg
    alt_text: First example photo for stop 3
- - path: 03-third-stop-02.jpg
-   alt_text: Second example photo for stop 3
 ---
 
-<p dir="rtl" lang="ar"><sup><sub> الصور بإذن من متحف قطر الوطني – الدوحة ومجموعة مقتنيات متحف لوسيل – الدوحة ومتحف الفن الإسلامي ومجموعة المقتنيات العامة - الدوحة   </sub></sup></p>
+<p dir="rtl" lang="ar"><sup><sub> لويس فرانسوا كاساس، "تمثال أبو الهول وهرم الجيزة الأكبر"، 1798، ألوان مائية على رسم محفور، 52.5 x 77 سم. مجموعة متحف لوسيل. الصورة: © متحف لوسيل، متاحف قطر، 2022. </sub></sup></p>
 
 ___________________
 

@@ -10,8 +10,6 @@ audio_file: 1_Arb_Understanding_Orientalism.wav
 hero_images:
  - path: Orientalism_1.jpg
    alt_text: First example photo for stop 1
- - path: 01-introduction-02.jpg
-   alt_text: Second example photo for stop 1
 ---
 
 <!---
@@ -31,9 +29,7 @@ The example audio used here is borrowed from [NASA](http://www.nasa.gov/connect/
 --->
 
 
-<p dir="rtl" lang="ar"><sup><sub> لصور بإذن من مجموعة المقتنيات العامة - الدوحة 
-
-ومجموعة مقتنيات متحف لوسيل - الدوحة   </sub></sup></p>
+<p dir="rtl" lang="ar"><sup><sub> أوجين ديلاكروا، "فارسٌ عربيٌ يعدو بفرسه"، 1849، ألوان زيتية على قماش، 54 x 45.1 سم. مجموعة متحف لوسيل. الصورة: © متحف لوسيل، متاحف قطر، 2022 </sub></sup></p>
 
 ___________________
 
